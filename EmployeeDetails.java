@@ -19,6 +19,7 @@ public class EmployeeDetails {  //parent
 		e.empName();
 		e.empId(600);
 		e.test("JAVA");
+		e.test("Hello");
 
 	}
 

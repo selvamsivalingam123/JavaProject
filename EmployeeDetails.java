@@ -17,7 +17,8 @@ public class EmployeeDetails {  //parent
 	public static void main(String[] args) {
 		EmployeeDetails e = new Sample(); //UPcasting
 		e.empName();
-		e.empId(600);
+// 		e.empId(600);
+		e.empId(500);
 		e.test("JAVA");
 
 	}
